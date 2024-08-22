@@ -42,10 +42,6 @@ To provide actionable insights to the company, we calculated:
 
 We analyzed the impact of different service level commitments on costs by adjusting the maximum allowable flight time (and corresponding transportation costs). The scenarios considered were 6-hour, 9-hour, 12-hour, and 15-hour flight times, with transportation costs adjusted accordingly. We explored how these changes affect the number of required depots and the overall cost, providing insights into the trade-offs between service speed and cost.
 
-## Presentation
-
-The final part of the project involved preparing a presentation for the operations management team at the airplane manufacturer. The presentation focused on the analysis and recommendations derived from the optimization and sensitivity analysis, highlighting the financial implications of different service level commitments and providing clear, actionable insights.
-
 ## Technologies Used
 
 - **Python (gurobipy)**: For modeling and solving the mixed integer programming problem.
